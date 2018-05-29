@@ -2,6 +2,7 @@
 
 ## On Solid
 
+- 2018-05-28 - Utopia to Dystopia in 29 short years - [source](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html) 
 - 2016-04-07 - IPRI meeting - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html)
 - 2016-03-24 - [W3C Developers Meetup](http://www.meetup.com/W3C-developers-in-Boston/events/229580827/) - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html)
 - 2015-10-18 - Redecentralize conf 2015 - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html) - [video](https://www.youtube.com/watch?v=yi4SgNyDJ9w)
